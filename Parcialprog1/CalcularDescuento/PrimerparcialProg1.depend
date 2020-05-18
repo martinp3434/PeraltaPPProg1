@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589806527 source:c:\users\diego\documents\utn\prog 1\ejercicios\parcialprog1\primerparcialprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libPrimerParcialProg1.h"
+
+1589806504 c:\users\diego\documents\utn\prog 1\ejercicios\parcialprog1\primerparcialprog1\libprimerparcialprog1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

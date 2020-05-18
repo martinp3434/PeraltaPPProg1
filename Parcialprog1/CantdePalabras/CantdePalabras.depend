@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589806621 source:c:\users\diego\documents\utn\prog 1\ejercicios\parcialprog1\cantdepalabras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaCantPalabras.h"
+
+1589806142 c:\users\diego\documents\utn\prog 1\ejercicios\parcialprog1\cantdepalabras\libreriacantpalabras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
